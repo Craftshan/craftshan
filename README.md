@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Muhammad Kashian Malik
 
-### CS Student • Digital Designer • Aspiring Web Developer
+### 🎨 Digital Designer • 💻 CS Student • 🌐 Aspiring Web Developer
 
 <p>
-  <a href="https://craftshan.studio">🌐 Website</a>
+  <a href="https://craftshan.studio">🌐 Portfolio</a>
   •
-  <a href="https://github.com/craftshan">GitHub</a>
+  <a href="https://www.linkedin.com/in/kashian-malik-6a5528405">💼 LinkedIn</a>
   •
-  <a href="https://www.instagram.com/craftshan_studio/">Instagram</a>
+  <a href="https://www.atomm.com/@CraftshanStudio">🎨 Craftshan Studio</a>
 </p>
 
 </div>
@@ -20,57 +20,102 @@
 
 I'm a **Computer Science student** with a background in digital design and a growing passion for web development.
 
-I enjoy combining **design + technology** to create clean, responsive and user-friendly websites.
+I enjoy combining **creativity, design, and technology** to build clean and user-friendly digital experiences.
 
 - 🎓 Computer Science Student
-- 🎨 Digital Designer
+- 🎨 Digital & Laser Cut Designer
 - 💻 Aspiring Web Developer
-- 🌱 Currently improving my frontend development skills
+- 🌱 Currently building my frontend development skills
+- 🚀 Turning ideas into real projects
 - 🎯 Working towards becoming a Full-Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Craftshan Studio
+
+I run **Craftshan Studio**, where I design and sell digital files for
+laser cutting and paper cutting.
+
+My work includes creative ornaments, decorations and other
+laser-cut designs.
 
 <div align="center">
 
-### Frontend
+<a href="https://www.atomm.com/@CraftshanStudio">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+**🛍️ Visit Craftshan Studio**
 
-### Tools & Design
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma" />
+</a>
 
 </div>
+
+---
+
+## 🛠️ Skills & Tools
+
+### 🎨 Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=ai,figma" />
+</p>
+
+Adobe Illustrator • Digital Design • UI/UX
+
+### 💻 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+HTML • CSS • JavaScript
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm" />
+</p>
+
+Git • GitHub • VS Code • WebStorm
 
 ---
 
 ## 📚 Currently Learning
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,typescript" />
-
-</div>
-
-I'm currently focusing on:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react" />
+</p>
 
 - ⚡ JavaScript
 - ⚛️ React.js
-- 📱 Responsive Web Design
+- 📱 Responsive Web Development
 - 🔧 Git & GitHub
-- 🧩 Modern frontend development
+- 🧩 Modern Frontend Development
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| 🌐 **Portfolio Website** | My personal developer portfolio | HTML |
-| 🎨 **Craftshan Studio** | My digital design studio website | Web |
-| 💻 **My First Website** | My first step into web development | HTML/CSS |
+### 🌐 Portfolio Website
+
+My personal portfolio website showcasing my work, skills and projects.
+
+**Tech:** HTML • CSS
+
+---
+
+### 🎨 Craftshan Studio
+
+A creative website for my digital design work and laser-cut design business.
+
+**Focus:** Design • Branding • Web Development
+
+---
+
+### 💻 My First Website
+
+My first step into web development and frontend programming.
+
+**Tech:** HTML • CSS
 
 ---
 
@@ -78,7 +123,7 @@ I'm currently focusing on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=craftshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=craftshan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftshan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -106,15 +151,25 @@ I'm currently focusing on:
 
 ---
 
+## 🎯 My Goal
+
+> **Combine design and development to create beautiful, useful and
+> meaningful digital experiences.**
+
+I'm continuously learning, building projects and improving my skills
+one step at a time.
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-🌐 **Website:** [craftshan.studio](https://craftshan.studio)
+🌐 **[Portfolio](https://craftshan.studio)**
 
-📸 **Instagram:** [@craftshan_studio](https://www.instagram.com/craftshan_studio/)
+💼 **[LinkedIn](https://www.linkedin.com/in/kashian-malik-6a5528405)**
 
-💼 **LinkedIn:** Add your LinkedIn here
+🎨 **[Craftshan Studio](https://www.atomm.com/@CraftshanStudio)**
 
 </div>
 
@@ -122,7 +177,7 @@ I'm currently focusing on:
 
 <div align="center">
 
-### 💡 Design. Build. Learn. Repeat.
+### 💡 Design. Build. Learn. Repeat. 🚀
 
 ⭐ Thanks for visiting my profile!
 
