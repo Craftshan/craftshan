@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hi, I'm Kashian 👋
+# 👋 Hi, I'm Muhammad Kashian Malik
 
 ### CS Student • Digital Designer • Aspiring Web Developer
 
-Building clean, creative and responsive digital experiences.
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-craftshan.studio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://craftshan.studio)
-[![GitHub](https://img.shields.io/badge/GitHub-Craftshan-181717?style=for-the-badge&logo=github)](https://github.com/Craftshan)
+<p>
+  <a href="https://craftshan.studio">🌐 Website</a>
+  •
+  <a href="https://github.com/craftshan">GitHub</a>
+  •
+  <a href="https://www.instagram.com/craftshan_studio/">Instagram</a>
+</p>
 
 </div>
 
@@ -17,61 +18,112 @@ Building clean, creative and responsive digital experiences.
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student** passionate about combining **design and technology**.
+I'm a **Computer Science student** with a background in digital design and a growing passion for web development.
 
-I enjoy designing interfaces, building websites, and learning modern web technologies.
+I enjoy combining **design + technology** to create clean, responsive and user-friendly websites.
 
+- 🎓 Computer Science Student
 - 🎨 Digital Designer
 - 💻 Aspiring Web Developer
-- 🌐 Interested in Frontend Development
-- 🚀 Building projects and improving my skills
-- 📚 Always learning something new
+- 🌱 Currently improving my frontend development skills
+- 🎯 Working towards becoming a Full-Stack Developer
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Design
+<div align="center">
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-7C3AED?style=flat-square)
+### Frontend
 
-### Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### Tools & Design
 
-### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,figma" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+</div>
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-JavaScript
-React.js
-Responsive Web Design
-Modern Frontend Development
-
-🚀 Featured Projects
-Project	Description
-🌐 Portfolio Website	Personal portfolio showcasing my work and skills
-🎨 Craftshan Studio	Creative/design focused website
-💻 My First Website	My first step into web development
-🎯 What I'm Working Towards
-
-My goal is to become a skilled Full-Stack Developer while combining my background in digital design with modern web technologies.
-
-🤝 Let's Connect
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,typescript" />
 
 </div>
+
+I'm currently focusing on:
+
+- ⚡ JavaScript
+- ⚛️ React.js
+- 📱 Responsive Web Design
+- 🔧 Git & GitHub
+- 🧩 Modern frontend development
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| 🌐 **Portfolio Website** | My personal developer portfolio | HTML |
+| 🎨 **Craftshan Studio** | My digital design studio website | Web |
+| 💻 **My First Website** | My first step into web development | HTML/CSS |
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-💡 Design • Build • Learn • Repeat 🚀
-</div> ```
+
+<img src="https://github-readme-stats.vercel.app/api?username=craftshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craftshan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=craftshan&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=craftshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+🌐 **Website:** [craftshan.studio](https://craftshan.studio)
+
+📸 **Instagram:** [@craftshan_studio](https://www.instagram.com/craftshan_studio/)
+
+💼 **LinkedIn:** Add your LinkedIn here
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Design. Build. Learn. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div>
