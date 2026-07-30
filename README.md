@@ -2,54 +2,75 @@
 
 ### CS Student | Digital Designer | Aspiring Web Developer
 
-I’m a Computer Science student interested in web development,
-UI/UX design, and building clean, responsive digital experiences.
+I'm a Computer Science student passionate about **web development, UI/UX design, and digital design**.
 
-Currently learning and improving my skills in modern web development.
+I enjoy turning ideas into clean, responsive, and user-friendly digital experiences while continuously learning modern web technologies.
 
 ---
 
 ## 🚀 What I'm Working On
 
 - 🌐 Building responsive websites
-- 🎨 Improving UI/UX and digital design
+- 🎨 Improving my UI/UX and digital design skills
 - 💻 Learning modern frontend development
-- 🧩 Building projects to strengthen my portfolio
+- 🧩 Building projects for my portfolio
+- 📚 Exploring new technologies and tools
 
 ---
 
 ## 🛠️ Skills
 
-HTML • CSS • JavaScript • Git • GitHub • UI/UX • Adobe Illustrator
+**Design**
+- Adobe Illustrator
+- UI/UX Design
+- Digital Design
 
-### Currently Learning
+**Web Development**
+- HTML
+- CSS
+- JavaScript
 
-React.js • TypeScript • Next.js
+**Tools**
+- Git & GitHub
+- WebStorm
+- VS Code
 
 ---
 
-## 📌 Featured Projects
+## 📚 Currently Learning
+
+- JavaScript
+- React.js
+- Responsive Web Design
+- Modern Frontend Development
+
+---
+
+## ⭐ Featured Projects
 
 ### 🌐 Portfolio Website
-My personal portfolio showcasing my projects and skills.
+Personal portfolio website showcasing my projects, skills, and work.
 
 ### 🎨 Craftshan Studio
-A website for my digital design work.
+Website for my digital design and creative work.
 
 ### 💻 My First Website
-My first step into web development.
+My first step into web development and frontend design.
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 My Goal
 
-[GitHub Stats]
+To become a skilled **Full-Stack Developer** while combining my background in design with modern web technologies.
 
 ---
 
 ## 🤝 Let's Connect
 
-🌐 Website  
-💼 LinkedIn  
-📸 Instagram  
-📧 Email
+🌐 **Website:** craftshan.studio  
+💼 **LinkedIn:** [Your LinkedIn]  
+📸 **Instagram:** [Your Instagram]
+
+---
+
+> **Design. Build. Learn. Repeat. 🚀**
