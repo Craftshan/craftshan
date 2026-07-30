@@ -58,3 +58,20 @@ JavaScript
 React.js
 Responsive Web Design
 Modern Frontend Development
+
+🚀 Featured Projects
+Project	Description
+🌐 Portfolio Website	Personal portfolio showcasing my work and skills
+🎨 Craftshan Studio	Creative/design focused website
+💻 My First Website	My first step into web development
+🎯 What I'm Working Towards
+
+My goal is to become a skilled Full-Stack Developer while combining my background in digital design with modern web technologies.
+
+🤝 Let's Connect
+<div align="center">
+
+</div>
+<div align="center">
+💡 Design • Build • Learn • Repeat 🚀
+</div> ```
