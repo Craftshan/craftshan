@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Kashian 👋
 
-<!--
-**Craftshan/craftshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CS Student | Digital Designer | Aspiring Web Developer
 
-Here are some ideas to get you started:
+I’m a Computer Science student interested in web development,
+UI/UX design, and building clean, responsive digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and improving my skills in modern web development.
+
+---
+
+## 🚀 What I'm Working On
+
+- 🌐 Building responsive websites
+- 🎨 Improving UI/UX and digital design
+- 💻 Learning modern frontend development
+- 🧩 Building projects to strengthen my portfolio
+
+---
+
+## 🛠️ Skills
+
+HTML • CSS • JavaScript • Git • GitHub • UI/UX • Adobe Illustrator
+
+### Currently Learning
+
+React.js • TypeScript • Next.js
+
+---
+
+## 📌 Featured Projects
+
+### 🌐 Portfolio Website
+My personal portfolio showcasing my projects and skills.
+
+### 🎨 Craftshan Studio
+A website for my digital design work.
+
+### 💻 My First Website
+My first step into web development.
+
+---
+
+## 📊 GitHub Stats
+
+[GitHub Stats]
+
+---
+
+## 🤝 Let's Connect
+
+🌐 Website  
+💼 LinkedIn  
+📸 Instagram  
+📧 Email
